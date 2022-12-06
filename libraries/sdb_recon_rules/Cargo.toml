@@ -1,0 +1,9 @@
+[package]
+name = "sdb_recon_rules"
+version = "0.2.1"
+authors = ["Tarun Jaiswal <tarunjais28@gmailcom>"]
+
+[dependencies]
+sdb_dyn_proto_rdr = { path = "../sdb_dyn_proto_rdr" }
+sdb_io = { path = "../../../hdfc/libraries/sdb_io" }
+libmath = "0.2.1"

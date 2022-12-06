@@ -1,0 +1,5 @@
+datetime|row_id|merchant_code|service_account_id|tx_reference|tx_reference1|amount|status|trx_type|status_description|trx_source|biller_status|country|discount_amount|amount_txn|access_mode
+1899-12-30T00:00:00|0|||||0|||||||0|0|
+1899-12-30T00:00:00|0|||||0|||||||0|0|
+1899-12-30T00:00:00|0|||||0|||||||0|0|
+1899-12-30T00:00:00|0|||||0|||||||0|0|

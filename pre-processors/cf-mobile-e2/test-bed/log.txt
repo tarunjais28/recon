@@ -1,0 +1,14 @@
+Aug 19 17:08:47.875 INFO log_file: test-bed/log.txt
+Aug 19 17:08:47.875 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 19 17:08:47.875 INFO input_file: test-bed/E2. Utilities_ELMA.xlsx
+Aug 19 17:08:47.875 INFO input_sheet_name: ELMA
+Aug 19 17:08:47.875 INFO as_on_date: 2018-02-28
+Aug 19 17:08:47.875 INFO output_file: test-bed/CFOutput
+Aug 19 17:08:47.875 INFO log_level: info
+Aug 19 17:08:47.913 INFO Accounts encountered: 771
+Accounts proccessed suceessfully: 767
+Accounts failed to process: 4
+Total amount in input: 23910844.79
+Total amount in output: 23910844.79
+Total no. of cashflows: 0
+Aug 19 17:08:47.914 INFO Total Duration for Mobile E2: 41.647305ms

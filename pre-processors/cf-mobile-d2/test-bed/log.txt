@@ -1,0 +1,14 @@
+Aug 18 23:47:12.994 INFO log_file: test-bed/log.txt
+Aug 18 23:47:12.994 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 18 23:47:12.994 INFO input_file: test-bed/D2. C2B _CBS.xlsx
+Aug 18 23:47:12.994 INFO input_sheet_name: CBS
+Aug 18 23:47:12.994 INFO as_on_date: 2020-08-18
+Aug 18 23:47:12.994 INFO output_file: test-bed/CFOutput
+Aug 18 23:47:12.994 INFO log_level: info
+Aug 18 23:47:13.027 INFO Accounts encountered: 1590
+Accounts proccessed suceessfully: 1590
+Accounts failed to process: 0
+Total amount in input: 103923251123.18842
+Total amount in output: 103923251123.18842
+Total no. of cashflows: 0
+Aug 18 23:47:13.027 INFO Total Duration for Banking D2: 33.05861ms

@@ -1,0 +1,4 @@
+gl_date|tran_id|ref_num|particulars|tran_dr_amt|tran_cr_amt|ccy_code|balance|remarks|branch
+None|||Page Total Debit   :|15049700|0||0||
+None|||Page Total Credit  :|15049700|0||0||
+None|||Closing Balance  :|3501750|0||0||

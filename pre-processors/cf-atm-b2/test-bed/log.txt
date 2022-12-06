@@ -1,0 +1,14 @@
+Aug 19 12:21:46.486 INFO log_file: test-bed/log.txt
+Aug 19 12:21:46.486 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 19 12:21:46.486 INFO input_file: test-bed/B2. CDM_CBS Rpt.xlsx
+Aug 19 12:21:46.486 INFO input_sheet_name: Sheet1
+Aug 19 12:21:46.486 INFO as_on_date: 2018-02-28
+Aug 19 12:21:46.486 INFO output_file: test-bed/CFOutput
+Aug 19 12:21:46.486 INFO log_level: info
+Aug 19 12:21:46.500 INFO Accounts encountered: 105
+Accounts proccessed suceessfully: 102
+Accounts failed to process: 3
+Total amount in input: 3501750
+Total amount in output: 1514000
+Total no. of cashflows: 0
+Aug 19 12:21:46.500 INFO Total Duration for ATM B2: 15.766925ms

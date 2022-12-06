@@ -1,0 +1,10 @@
+[package]
+name = "health_report"
+version = "0.1.0"
+authors = ["Tarun Jaiswal <tarunjais28@gmailcom>"]
+
+[dependencies]
+sdb_io = { path = "../sdb_io" }
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"

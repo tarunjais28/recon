@@ -1,0 +1,15 @@
+Aug 14 10:41:15.459 INFO log_file: test-bed/log.txt
+Aug 14 10:41:15.459 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 14 10:41:15.459 INFO input_file: test-bed/A1.CBS CWD Rpt.xls
+Aug 14 10:41:15.459 INFO input_sheet_name: ATM
+Aug 14 10:41:15.459 INFO as_on_date: 2018-02-28
+Aug 14 10:41:15.459 INFO output_file: test-bed/CFOutput
+Aug 14 10:41:15.459 INFO log_level: trace
+Aug 14 10:41:15.498 DEBG Total Duration: 39.14707ms
+Aug 14 10:41:15.498 INFO Accounts encountered: 333
+Accounts proccessed suceessfully: 333
+Accounts failed to process: 0
+Total amount in input: 992774600
+Total amount in output: 15740500
+Total no. of cashflows: 0
+Aug 14 10:41:15.500 INFO Total Duration for ATM A1: 43.035663ms

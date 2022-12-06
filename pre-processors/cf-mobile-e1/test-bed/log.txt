@@ -1,0 +1,14 @@
+Aug 19 14:44:07.529 INFO log_file: test-bed/log.txt
+Aug 19 14:44:07.529 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 19 14:44:07.529 INFO input_file: test-bed/E1. Utilities_CBS.xlsx
+Aug 19 14:44:07.529 INFO input_sheet_name: CBS
+Aug 19 14:44:07.529 INFO as_on_date: 2020-08-18
+Aug 19 14:44:07.529 INFO output_file: test-bed/CFOutput
+Aug 19 14:44:07.529 INFO log_level: info
+Aug 19 14:44:07.529 INFO Accounts encountered: 173
+Accounts proccessed suceessfully: 173
+Accounts failed to process: 0
+Total amount in input: 222814281.2000009
+Total amount in output: 222814281.2000009
+Total no. of cashflows: 0
+Aug 19 14:44:07.529 INFO Total Duration for Banking E1: 5.247669ms

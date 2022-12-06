@@ -1,0 +1,7027 @@
+datetime: 1593068034
+ref_no: 17700462386
+crd_no: "417362XXXXXX7535"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593068049
+ref_no: 17700462388
+crd_no: "417362XXXXXX7535"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593073841
+ref_no: 17700462390
+crd_no: "417362XXXXXX8049"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593073847
+ref_no: 17700462392
+crd_no: "417362XXXXXX8049"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593073872
+ref_no: 17700462394
+crd_no: "417362XXXXXX8049"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593073887
+ref_no: 17700462396
+crd_no: "417362XXXXXX8049"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593073971
+ref_no: 17700462397
+crd_no: "424108XXXXXX1318"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593074047
+ref_no: 17700462398
+crd_no: "424108XXXXXX1318"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593076198
+ref_no: 17700462400
+crd_no: "410488XXXXXX1713"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593076202
+ref_no: 17700462402
+crd_no: "410488XXXXXX1713"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593077113
+ref_no: 17700462404
+crd_no: "417362XXXXXX4085"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593077123
+ref_no: 17700462406
+crd_no: "417362XXXXXX4085"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593077383
+ref_no: 17700462408
+crd_no: "417362XXXXXX9564"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593077387
+ref_no: 17700462410
+crd_no: "417362XXXXXX9564"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593077411
+ref_no: 17700462412
+crd_no: "417362XXXXXX9564"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593077418
+ref_no: 17700462414
+crd_no: "417362XXXXXX9564"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593078519
+ref_no: 17700462415
+crd_no: "676163XXXXXX7684"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593078577
+ref_no: 17700462416
+crd_no: "676163XXXXXX7684"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593080931
+ref_no: 17700462418
+crd_no: "410488XXXXXX3313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593080936
+ref_no: 17700462420
+crd_no: "410488XXXXXX3313"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593081353
+ref_no: 17700462422
+crd_no: "417362XXXXXX6005"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593081362
+ref_no: 17700462424
+crd_no: "417362XXXXXX6005"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593081392
+ref_no: 17700462426
+crd_no: "417362XXXXXX6005"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593081399
+ref_no: 17700462428
+crd_no: "417362XXXXXX6005"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593082231
+ref_no: 17700462430
+crd_no: "417362XXXXXX8964"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593082243
+ref_no: 17700462432
+crd_no: "417362XXXXXX8964"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593083128
+ref_no: 17700462433
+crd_no: "999999XXXXXX0766"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593083132
+ref_no: 17700462434
+crd_no: "999999XXXXXX0766"
+txn: "START CASH REPLENISH"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593083144
+ref_no: 17700462435
+crd_no: "999999XXXXXX0766"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593086254
+ref_no: 17700462438
+crd_no: "410488XXXXXX3313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593086263
+ref_no: 17700462440
+crd_no: "410488XXXXXX3313"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593086293
+ref_no: 17700462442
+crd_no: "410488XXXXXX3313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593086298
+ref_no: 17700462444
+crd_no: "410488XXXXXX3313"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593086713
+ref_no: 17700462445
+crd_no: "446989XXXXXX8443"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593087835
+ref_no: 17700462446
+crd_no: "440783XXXXXX3650"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593087915
+ref_no: 17700462447
+crd_no: "440783XXXXXX8872"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593087950
+ref_no: 17700462448
+crd_no: "440783XXXXXX8872"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593088026
+ref_no: 17700462449
+crd_no: "464160XXXXXX3982"
+txn: "CASH WITHDRAWAL"
+amount: 500
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593089788
+ref_no: 17700462451
+crd_no: "417362XXXXXX1347"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593089797
+ref_no: 17700462453
+crd_no: "417362XXXXXX1347"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593090584
+ref_no: 17700462455
+crd_no: "417362XXXXXX1837"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593090589
+ref_no: 17700462457
+crd_no: "417362XXXXXX1837"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593090613
+ref_no: 17700462459
+crd_no: "417362XXXXXX1837"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593090623
+ref_no: 17700462461
+crd_no: "417362XXXXXX1837"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593091351
+ref_no: 17700462463
+crd_no: "410488XXXXXX1713"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593091356
+ref_no: 17700462465
+crd_no: "410488XXXXXX1713"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593091387
+ref_no: 17700462467
+crd_no: "410488XXXXXX1713"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593091400
+ref_no: 17700462469
+crd_no: "410488XXXXXX1713"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593091484
+ref_no: 17700462471
+crd_no: "417362XXXXXX0147"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593091488
+ref_no: 17700462473
+crd_no: "417362XXXXXX0147"
+txn: "MINI STATEMENT"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593091529
+ref_no: 17700462475
+crd_no: "417362XXXXXX0147"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593091535
+ref_no: 17700462476
+crd_no: "417362XXXXXX0147"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593092790
+ref_no: 17700462477
+crd_no: "539123XXXXXX5993"
+txn: "CASH WITHDRAWAL"
+amount: 14000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593092814
+ref_no: 17700462478
+crd_no: "539123XXXXXX5993"
+txn: "CASH WITHDRAWAL"
+amount: 12000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593092926
+ref_no: 17700462480
+crd_no: "417362XXXXXX2094"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593092930
+ref_no: 17700462482
+crd_no: "417362XXXXXX2094"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593092958
+ref_no: 17700462484
+crd_no: "484655XXXXXX8593"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593092962
+ref_no: 17700462486
+crd_no: "484655XXXXXX8593"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593095981
+ref_no: 17700462487
+crd_no: "464160XXXXXX6249"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593096382
+ref_no: 17700462489
+crd_no: "417362XXXXXX0165"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593096391
+ref_no: 17700462491
+crd_no: "417362XXXXXX0165"
+txn: "CASH WITHDRAWAL"
+amount: 500
+extra: "00 01 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593096591
+ref_no: 17700462493
+crd_no: "417362XXXXXX1006"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593096595
+ref_no: 17700462495
+crd_no: "417362XXXXXX1006"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593096620
+ref_no: 17700462497
+crd_no: "417362XXXXXX1006"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593096632
+ref_no: 17700462499
+crd_no: "417362XXXXXX1006"
+txn: "CASH WITHDRAWAL"
+amount: 200
+extra: "01 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593097842
+ref_no: 17700462501
+crd_no: "410488XXXXXX3313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593097847
+ref_no: 17700462503
+crd_no: "410488XXXXXX3313"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593097873
+ref_no: 17700462505
+crd_no: "410488XXXXXX3313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593097887
+ref_no: 17700462507
+crd_no: "410488XXXXXX3313"
+txn: "CASH WITHDRAWAL"
+amount: 11200
+extra: "01 00 11 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593098056
+ref_no: 17700462509
+crd_no: "417362XXXXXX1149"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593098068
+ref_no: 17700462511
+crd_no: "417362XXXXXX1149"
+txn: "CASH WITHDRAWAL"
+amount: 500
+extra: "00 01 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593102675
+ref_no: 17700462512
+crd_no: "464122XXXXXX4802"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593103369
+ref_no: 17700462514
+crd_no: "417362XXXXXX8945"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593103376
+ref_no: 17700462515
+crd_no: "417362XXXXXX8945"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593103448
+ref_no: 17700462518
+crd_no: "405457XXXXXX5620"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593103452
+ref_no: 17700462519
+crd_no: "405457XXXXXX5620"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593103558
+ref_no: 17700462521
+crd_no: "405457XXXXXX5620"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593103568
+ref_no: 17700462522
+crd_no: "405457XXXXXX5620"
+txn: "CASH WITHDRAWAL"
+amount: 5900
+extra: "02 01 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593106751
+ref_no: 17700462523
+crd_no: "447815XXXXXX2102"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "INVALID TRANSACTION"
+resp: 57
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593106881
+ref_no: 17700462525
+crd_no: "417362XXXXXX2509"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593106899
+ref_no: 17700462527
+crd_no: "417362XXXXXX2509"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593107212
+ref_no: 17700462529
+crd_no: "417362XXXXXX8017"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107216
+ref_no: 17700462531
+crd_no: "417362XXXXXX8017"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107238
+ref_no: 17700462533
+crd_no: "417362XXXXXX8017"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107252
+ref_no: 17700462535
+crd_no: "417362XXXXXX8017"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593107384
+ref_no: 17700462537
+crd_no: "417362XXXXXX5956"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107393
+ref_no: 17700462539
+crd_no: "417362XXXXXX5956"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593107498
+ref_no: 17700462541
+crd_no: "417362XXXXXX5160"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107503
+ref_no: 17700462543
+crd_no: "417362XXXXXX5160"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107531
+ref_no: 17700462545
+crd_no: "417362XXXXXX5160"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593107542
+ref_no: 17700462547
+crd_no: "417362XXXXXX5160"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593107944
+ref_no: 17700462548
+crd_no: "516815XXXXXX3799"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593108559
+ref_no: 17700462550
+crd_no: "417362XXXXXX7917"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593108573
+ref_no: 17700462552
+crd_no: "417362XXXXXX7917"
+txn: "CASH WITHDRAWAL"
+amount: 9100
+extra: "03 01 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593108898
+ref_no: 17700462554
+crd_no: "417362XXXXXX1846"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593108913
+ref_no: 17700462556
+crd_no: "417362XXXXXX1846"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593109052
+ref_no: 17700462558
+crd_no: "417362XXXXXX7585"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593109067
+ref_no: 17700462560
+crd_no: "417362XXXXXX7585"
+txn: "BALANCE ENQUIRY"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593109327
+ref_no: 17700462562
+crd_no: "417362XXXXXX4681"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593109335
+ref_no: 17700462564
+crd_no: "417362XXXXXX4681"
+txn: "CASH WITHDRAWAL"
+amount: 9500
+extra: "00 01 09 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593110824
+ref_no: 17700462566
+crd_no: "417362XXXXXX9849"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593110837
+ref_no: 17700462568
+crd_no: "417362XXXXXX9849"
+txn: "CASH WITHDRAWAL"
+amount: 12000
+extra: "00 00 12 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593111687
+ref_no: 17700462570
+crd_no: "417362XXXXXX3115"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593111709
+ref_no: 17700462572
+crd_no: "417362XXXXXX3115"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593114401
+ref_no: 17700462573
+crd_no: "432115XXXXXX4142"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593117751
+ref_no: 17700462575
+crd_no: "417362XXXXXX2509"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593117764
+ref_no: 17700462577
+crd_no: "417362XXXXXX2509"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593152625
+ref_no: 17800462579
+crd_no: "417362XXXXXX6018"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593152630
+ref_no: 17800462580
+crd_no: "417362XXXXXX6018"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593152670
+ref_no: 17800462582
+crd_no: "417362XXXXXX6018"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593152693
+ref_no: 17800462584
+crd_no: "417362XXXXXX6018"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593155639
+ref_no: 17800462586
+crd_no: "410488XXXXXX2062"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593155644
+ref_no: 17800462587
+crd_no: "410488XXXXXX2062"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593158427
+ref_no: 17800462589
+crd_no: "417362XXXXXX2928"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593158434
+ref_no: 17800462591
+crd_no: "417362XXXXXX2928"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593158459
+ref_no: 17800462593
+crd_no: "417362XXXXXX2928"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593158473
+ref_no: 17800462595
+crd_no: "417362XXXXXX2928"
+txn: "CASH WITHDRAWAL"
+amount: 600
+extra: "03 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593159187
+ref_no: 17800462597
+crd_no: "417362XXXXXX2717"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593159193
+ref_no: 17800462598
+crd_no: "417362XXXXXX2717"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593160527
+ref_no: 17800462600
+crd_no: "417362XXXXXX5065"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593160537
+ref_no: 17800462602
+crd_no: "417362XXXXXX5065"
+txn: "CASH WITHDRAWAL"
+amount: 1800
+extra: "04 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593160893
+ref_no: 17800462604
+crd_no: "417362XXXXXX7064"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593160905
+ref_no: 17800462605
+crd_no: "417362XXXXXX7064"
+txn: "CASH WITHDRAWAL"
+amount: 42600
+extra: "HIGH AMOUNT"
+resp: 975
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593160932
+ref_no: 17800462607
+crd_no: "417362XXXXXX7064"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593160981
+ref_no: 17800462609
+crd_no: "417362XXXXXX7064"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593160992
+ref_no: 17800462611
+crd_no: "417362XXXXXX7064"
+txn: "CASH WITHDRAWAL"
+amount: 3600
+extra: "03 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593167982
+ref_no: 17800462612
+crd_no: "469510XXXXXX2879"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593168035
+ref_no: 17800462613
+crd_no: "469510XXXXXX2879"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593168085
+ref_no: 17800462615
+crd_no: "417362XXXXXX9321"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593168097
+ref_no: 17800462617
+crd_no: "417362XXXXXX9321"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593169470
+ref_no: 17800462619
+crd_no: "417362XXXXXX7986"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593169480
+ref_no: 17800462620
+crd_no: "417362XXXXXX7986"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593170039
+ref_no: 17800462621
+crd_no: "425199XXXXXX3404"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593171206
+ref_no: 17800462623
+crd_no: "417362XXXXXX7495"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593171224
+ref_no: 17800462625
+crd_no: "417362XXXXXX7495"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593171279
+ref_no: 17800462627
+crd_no: "417362XXXXXX7495"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593171289
+ref_no: 17800462629
+crd_no: "417362XXXXXX7495"
+txn: "CASH WITHDRAWAL"
+amount: 21000
+extra: "00 00 21 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593171961
+ref_no: 17800462631
+crd_no: "417362XXXXXX5215"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593171965
+ref_no: 17800462632
+crd_no: "417362XXXXXX5215"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593172387
+ref_no: 17800462634
+crd_no: "417362XXXXXX0202"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593172398
+ref_no: 17800462636
+crd_no: "417362XXXXXX0202"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593172994
+ref_no: 17800462638
+crd_no: "417362XXXXXX0668"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593173006
+ref_no: 17800462640
+crd_no: "417362XXXXXX0668"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593173251
+ref_no: 17800462642
+crd_no: "417362XXXXXX9290"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593173260
+ref_no: 17800462644
+crd_no: "417362XXXXXX9290"
+txn: "CASH WITHDRAWAL"
+amount: 700
+extra: "01 01 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593173514
+ref_no: 17800462646
+crd_no: "417362XXXXXX2218"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593173527
+ref_no: 17800462648
+crd_no: "417362XXXXXX2218"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593175521
+ref_no: 17800462649
+crd_no: "424108XXXXXX5653"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593175559
+ref_no: 17800462650
+crd_no: "424108XXXXXX5653"
+txn: "CASH WITHDRAWAL"
+amount: 7100
+extra: "03 01 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593176438
+ref_no: 17800462652
+crd_no: "417362XXXXXX6712"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593176455
+ref_no: 17800462654
+crd_no: "417362XXXXXX6712"
+txn: "BALANCE ENQUIRY"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593176492
+ref_no: 17800462656
+crd_no: "417362XXXXXX6712"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593176936
+ref_no: 17800462658
+crd_no: "417362XXXXXX0656"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593176946
+ref_no: 17800462660
+crd_no: "417362XXXXXX0656"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593177437
+ref_no: 17800462662
+crd_no: "417362XXXXXX0298"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593177445
+ref_no: 17800462664
+crd_no: "417362XXXXXX0298"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593177809
+ref_no: 17800462665
+crd_no: "464160XXXXXX2336"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593177881
+ref_no: 17800462666
+crd_no: "464160XXXXXX2336"
+txn: "CASH WITHDRAWAL"
+amount: 2500
+extra: "00 01 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593180083
+ref_no: 17800462668
+crd_no: "417362XXXXXX7064"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593180092
+ref_no: 17800462670
+crd_no: "417362XXXXXX7064"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593181596
+ref_no: 17800462672
+crd_no: "417362XXXXXX4218"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593181607
+ref_no: 17800462674
+crd_no: "417362XXXXXX4218"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593182740
+ref_no: 17800462676
+crd_no: "417362XXXXXX3728"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593182749
+ref_no: 17800462678
+crd_no: "417362XXXXXX3728"
+txn: "CASH WITHDRAWAL"
+amount: 600
+extra: "03 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593182933
+ref_no: 17800462680
+crd_no: "417362XXXXXX7777"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593182944
+ref_no: 17800462682
+crd_no: "417362XXXXXX7777"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593183357
+ref_no: 17800462683
+crd_no: "529750XXXXXX2950"
+txn: "CASH WITHDRAWAL"
+amount: 15000
+extra: "00 00 15 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593184787
+ref_no: 17800462685
+crd_no: "417362XXXXXX1704"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593184793
+ref_no: 17800462687
+crd_no: "417362XXXXXX1704"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593184820
+ref_no: 17800462689
+crd_no: "417362XXXXXX1704"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593184837
+ref_no: 17800462691
+crd_no: "417362XXXXXX1704"
+txn: "CASH WITHDRAWAL"
+amount: 6500
+extra: "00 01 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593190570
+ref_no: 17800462693
+crd_no: "417362XXXXXX5295"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593190582
+ref_no: 17800462695
+crd_no: "417362XXXXXX5295"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593190630
+ref_no: 17800462696
+crd_no: "446989XXXXXX4051"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593190693
+ref_no: 17800462698
+crd_no: "417362XXXXXX1057"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593190708
+ref_no: 17800462700
+crd_no: "417362XXXXXX1057"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593193885
+ref_no: 17800462701
+crd_no: "529098XXXXXX3092"
+txn: "CASH WITHDRAWAL"
+amount: 12000
+extra: "00 00 12 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593194330
+ref_no: 17800462703
+crd_no: "417362XXXXXX1517"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593194346
+ref_no: 17800462705
+crd_no: "417362XXXXXX1517"
+txn: "CASH WITHDRAWAL"
+amount: 14000
+extra: "00 00 14 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593194609
+ref_no: 17800462706
+crd_no: "418995XXXXXX0726"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593196257
+ref_no: 17800462707
+crd_no: "446989XXXXXX0175"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593198470
+ref_no: 17800462708
+crd_no: "464122XXXXXX3167"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593198660
+ref_no: 17800462710
+crd_no: "417362XXXXXX2206"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593198670
+ref_no: 17800462711
+crd_no: "417362XXXXXX2206"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593201173
+ref_no: 17800462713
+crd_no: "417360XXXXXX3289"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593201183
+ref_no: 17800462714
+crd_no: "417360XXXXXX3289"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593201301
+ref_no: 17800462716
+crd_no: "417362XXXXXX3498"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593201311
+ref_no: 17800462718
+crd_no: "417362XXXXXX3498"
+txn: "CASH WITHDRAWAL"
+amount: 1500
+extra: "00 01 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593245561
+ref_no: 17900462720
+crd_no: "417362XXXXXX4123"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593245568
+ref_no: 17900462722
+crd_no: "417362XXXXXX4123"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593245605
+ref_no: 17900462724
+crd_no: "417362XXXXXX4123"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593245612
+ref_no: 17900462725
+crd_no: "417362XXXXXX4123"
+txn: "PIN VERIFICATION"
+extra: "CVV ERROR"
+resp: 82
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593245636
+ref_no: 17900462727
+crd_no: "417362XXXXXX4123"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593245648
+ref_no: 17900462729
+crd_no: "417362XXXXXX4123"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593247051
+ref_no: 17900462731
+crd_no: "417362XXXXXX5295"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593247065
+ref_no: 17900462733
+crd_no: "417362XXXXXX5295"
+txn: "CASH WITHDRAWAL"
+amount: 14000
+extra: "00 00 14 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593249064
+ref_no: 17900462735
+crd_no: "417362XXXXXX2826"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593249069
+ref_no: 17900462736
+crd_no: "417362XXXXXX2826"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593249733
+ref_no: 17900462738
+crd_no: "417362XXXXXX0298"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593249744
+ref_no: 17900462740
+crd_no: "417362XXXXXX0298"
+txn: "CASH WITHDRAWAL"
+amount: 35000
+extra: "00 00 35 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593249873
+ref_no: 17900462742
+crd_no: "417362XXXXXX2047"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593249885
+ref_no: 17900462744
+crd_no: "417362XXXXXX2047"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593249940
+ref_no: 17900462746
+crd_no: "417362XXXXXX2047"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593249951
+ref_no: 17900462748
+crd_no: "417362XXXXXX2047"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593250374
+ref_no: 17900462750
+crd_no: "417362XXXXXX5652"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593250379
+ref_no: 17900462751
+crd_no: "417362XXXXXX5652"
+txn: "FAST CASH"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593252517
+ref_no: 17900462753
+crd_no: "417362XXXXXX1026"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593252566
+ref_no: 17900462755
+crd_no: "417362XXXXXX8813"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593252571
+ref_no: 17900462757
+crd_no: "417362XXXXXX8813"
+txn: "MINI STATEMENT"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593253013
+ref_no: 17900462758
+crd_no: "639383XXXXXX8993"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593255100
+ref_no: 17900462760
+crd_no: "417362XXXXXX4196"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593255113
+ref_no: 17900462762
+crd_no: "417362XXXXXX4196"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593259136
+ref_no: 17900462764
+crd_no: "417362XXXXXX7088"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593259143
+ref_no: 17900462766
+crd_no: "417362XXXXXX7088"
+txn: "MINI STATEMENT"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593259223
+ref_no: 17900462768
+crd_no: "417362XXXXXX7088"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593259233
+ref_no: 17900462770
+crd_no: "417362XXXXXX7088"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593259379
+ref_no: 17900462771
+crd_no: "416706XXXXXX1047"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593260419
+ref_no: 17900462772
+crd_no: "429933XXXXXX7046"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593261051
+ref_no: 17900462773
+crd_no: "464122XXXXXX4660"
+txn: "CASH WITHDRAWAL"
+amount: 50000
+extra: "HIGH AMOUNT"
+resp: 975
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593261063
+ref_no: 17900462774
+crd_no: "464122XXXXXX4660"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593261104
+ref_no: 17900462775
+crd_no: "464122XXXXXX4660"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593261161
+ref_no: 17900462776
+crd_no: "464122XXXXXX4660"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593263221
+ref_no: 17900462777
+crd_no: "478393XXXXXX9908"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593263772
+ref_no: 17900462779
+crd_no: "417362XXXXXX3035"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593263783
+ref_no: 17900462781
+crd_no: "417362XXXXXX3035"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593263839
+ref_no: 17900462784
+crd_no: "417362XXXXXX2144"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593263850
+ref_no: 17900462786
+crd_no: "417362XXXXXX2144"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593263985
+ref_no: 17900462788
+crd_no: "417362XXXXXX1948"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593263996
+ref_no: 17900462790
+crd_no: "417362XXXXXX1948"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593264453
+ref_no: 17900462792
+crd_no: "417362XXXXXX7475"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593264469
+ref_no: 17900462794
+crd_no: "417362XXXXXX7475"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593264999
+ref_no: 17900462796
+crd_no: "417362XXXXXX3673"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593265009
+ref_no: 17900462798
+crd_no: "417362XXXXXX3673"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593265058
+ref_no: 17900462800
+crd_no: "417362XXXXXX5215"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593265063
+ref_no: 17900462801
+crd_no: "417362XXXXXX5215"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593267399
+ref_no: 17900462803
+crd_no: "417362XXXXXX7509"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593267404
+ref_no: 17900462805
+crd_no: "417362XXXXXX7509"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593269076
+ref_no: 17900462806
+crd_no: "446989XXXXXX8443"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593271459
+ref_no: 17900462807
+crd_no: "443913XXXXXX4894"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593273533
+ref_no: 17900462809
+crd_no: "417362XXXXXX1837"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593273537
+ref_no: 17900462811
+crd_no: "417362XXXXXX1837"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593273757
+ref_no: 17900462813
+crd_no: "417362XXXXXX1837"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593273778
+ref_no: 17900462815
+crd_no: "417362XXXXXX1837"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593273782
+ref_no: 17900462817
+crd_no: "417362XXXXXX1837"
+txn: "MINI STATEMENT"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593274024
+ref_no: 17900462819
+crd_no: "417362XXXXXX7166"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593274036
+ref_no: 17900462821
+crd_no: "417362XXXXXX7166"
+txn: "CASH WITHDRAWAL"
+amount: 15000
+extra: "00 00 15 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593274334
+ref_no: 17900462823
+crd_no: "417362XXXXXX2109"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593274344
+ref_no: 17900462825
+crd_no: "417362XXXXXX2109"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593274835
+ref_no: 17900462826
+crd_no: "413271XXXXXX6617"
+txn: "CASH WITHDRAWAL"
+amount: 7500
+extra: "00 01 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593275085
+ref_no: 17900462828
+crd_no: "417362XXXXXX5538"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593275092
+ref_no: 17900462829
+crd_no: "417362XXXXXX5538"
+txn: "PIN VERIFICATION"
+extra: "CVV ERROR"
+resp: 82
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593275117
+ref_no: 17900462831
+crd_no: "417362XXXXXX5538"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593275139
+ref_no: 17900462833
+crd_no: "417362XXXXXX5538"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593275336
+ref_no: 17900462835
+crd_no: "417362XXXXXX1364"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593275348
+ref_no: 17900462837
+crd_no: "417362XXXXXX1364"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593276861
+ref_no: 17900462839
+crd_no: "417362XXXXXX5862"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593276872
+ref_no: 17900462841
+crd_no: "417362XXXXXX5862"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593277552
+ref_no: 17900462842
+crd_no: "464122XXXXXX0868"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593278246
+ref_no: 17900462844
+crd_no: "417362XXXXXX5491"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593278257
+ref_no: 17900462846
+crd_no: "417362XXXXXX5491"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593279134
+ref_no: 17900462848
+crd_no: "417362XXXXXX2748"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593279146
+ref_no: 17900462850
+crd_no: "417362XXXXXX2748"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593279838
+ref_no: 17900462851
+crd_no: "424108XXXXXX8391"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593280145
+ref_no: 17900462852
+crd_no: "529750XXXXXX2261"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593281180
+ref_no: 17900462853
+crd_no: "529750XXXXXX8013"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593283680
+ref_no: 17900462855
+crd_no: "417362XXXXXX1988"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593283687
+ref_no: 17900462856
+crd_no: "417362XXXXXX1988"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593283789
+ref_no: 17900462857
+crd_no: "529750XXXXXX3233"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593285362
+ref_no: 17900462859
+crd_no: "417362XXXXXX5974"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593285387
+ref_no: 17900462860
+crd_no: "417362XXXXXX5974"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593325316
+ref_no: 18000462862
+crd_no: "417362XXXXXX9290"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593325326
+ref_no: 18000462864
+crd_no: "417362XXXXXX9290"
+txn: "CASH WITHDRAWAL"
+amount: 600
+extra: "03 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593327049
+ref_no: 18000462866
+crd_no: "417362XXXXXX0507"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593327058
+ref_no: 18000462868
+crd_no: "417362XXXXXX0507"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593329772
+ref_no: 18000462870
+crd_no: "417362XXXXXX4721"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593329793
+ref_no: 18000462871
+crd_no: "417362XXXXXX4721"
+txn: "CASH WITHDRAWAL"
+amount: 300
+extra: "INVALID AMT TYPE1"
+resp: 970
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593329815
+ref_no: 18000462873
+crd_no: "417362XXXXXX4721"
+txn: "CASH WITHDRAWAL"
+amount: 200
+extra: "01 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593331036
+ref_no: 18000462875
+crd_no: "417362XXXXXX0959"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593331044
+ref_no: 18000462877
+crd_no: "417362XXXXXX0959"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593337916
+ref_no: 18000462879
+crd_no: "417362XXXXXX0953"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593337923
+ref_no: 18000462880
+crd_no: "417362XXXXXX0953"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593338359
+ref_no: 18000462881
+crd_no: "425199XXXXXX0197"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593341177
+ref_no: 18000462882
+crd_no: "517500XXXXXX1723"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "INVALID ACCOUNT"
+resp: 53
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593341211
+ref_no: 18000462883
+crd_no: "416706XXXXXX5239"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593341928
+ref_no: 18000462885
+crd_no: "417362XXXXXX0298"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593341937
+ref_no: 18000462887
+crd_no: "417362XXXXXX0298"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593342086
+ref_no: 18000462889
+crd_no: "417362XXXXXX1262"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593342091
+ref_no: 18000462891
+crd_no: "417362XXXXXX1262"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593342941
+ref_no: 18000462893
+crd_no: "417362XXXXXX9443"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593342945
+ref_no: 18000462895
+crd_no: "417362XXXXXX9443"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593342980
+ref_no: 18000462897
+crd_no: "417362XXXXXX3870"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593342988
+ref_no: 18000462899
+crd_no: "417362XXXXXX3870"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593345358
+ref_no: 18000462901
+crd_no: "417362XXXXXX4753"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593345372
+ref_no: 18000462903
+crd_no: "417362XXXXXX4753"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593346090
+ref_no: 18000462905
+crd_no: "484655XXXXXX3787"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593346100
+ref_no: 18000462906
+crd_no: "484655XXXXXX3787"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593346263
+ref_no: 18000462908
+crd_no: "417362XXXXXX0642"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593346273
+ref_no: 18000462909
+crd_no: "417362XXXXXX0642"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593349632
+ref_no: 18000462911
+crd_no: "417362XXXXXX0544"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593349650
+ref_no: 18000462913
+crd_no: "417362XXXXXX0544"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593351175
+ref_no: 18000462914
+crd_no: "524681XXXXXX9060"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593351211
+ref_no: 18000462916
+crd_no: "417362XXXXXX0340"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593351222
+ref_no: 18000462918
+crd_no: "417362XXXXXX0340"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593351923
+ref_no: 18000462920
+crd_no: "417362XXXXXX3913"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593351933
+ref_no: 18000462922
+crd_no: "417362XXXXXX3913"
+txn: "CASH WITHDRAWAL"
+amount: 1500
+extra: "00 01 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593352868
+ref_no: 18000462923
+crd_no: "446989XXXXXX7778"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593355587
+ref_no: 18000462924
+crd_no: "425199XXXXXX6654"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593356194
+ref_no: 18000462926
+crd_no: "417362XXXXXX6527"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593356204
+ref_no: 18000462928
+crd_no: "417362XXXXXX6527"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593357146
+ref_no: 18000462929
+crd_no: "446989XXXXXX8468"
+txn: "CASH WITHDRAWAL"
+amount: 2500
+extra: "00 01 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593357278
+ref_no: 18000462931
+crd_no: "417362XXXXXX6283"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593357290
+ref_no: 18000462933
+crd_no: "417362XXXXXX6283"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593358328
+ref_no: 18000462935
+crd_no: "417362XXXXXX5349"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593358337
+ref_no: 18000462937
+crd_no: "417362XXXXXX5349"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593360734
+ref_no: 18000462939
+crd_no: "417362XXXXXX7413"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593360743
+ref_no: 18000462941
+crd_no: "417362XXXXXX7413"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593361149
+ref_no: 18000462942
+crd_no: "450198XXXXXX9060"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593361666
+ref_no: 18000462943
+crd_no: "529098XXXXXX4108"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593362815
+ref_no: 18000462944
+crd_no: "524681XXXXXX1801"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "TEMPORARILY UNABLE TO PROCESS"
+resp: 91
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593363036
+ref_no: 18000462946
+crd_no: "417362XXXXXX9620"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593363040
+ref_no: 18000462948
+crd_no: "417362XXXXXX9620"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593363738
+ref_no: 18000462949
+crd_no: "538422XXXXXX5583"
+txn: "CASH WITHDRAWAL"
+amount: 3900
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593363754
+ref_no: 18000462950
+crd_no: "538422XXXXXX5583"
+txn: "CASH WITHDRAWAL"
+amount: 3900
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593364582
+ref_no: 18000462952
+crd_no: "417362XXXXXX7700"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593364601
+ref_no: 18000462954
+crd_no: "417362XXXXXX7700"
+txn: "CASH WITHDRAWAL"
+amount: 6500
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593364637
+ref_no: 18000462956
+crd_no: "417362XXXXXX7700"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593364668
+ref_no: 18000462958
+crd_no: "417362XXXXXX7700"
+txn: "CASH WITHDRAWAL"
+amount: 6400
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593364698
+ref_no: 18000462960
+crd_no: "417362XXXXXX7700"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593364704
+ref_no: 18000462962
+crd_no: "417362XXXXXX7700"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593366277
+ref_no: 18000462964
+crd_no: "417362XXXXXX4853"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593366285
+ref_no: 18000462966
+crd_no: "417362XXXXXX4853"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593367539
+ref_no: 18000462967
+crd_no: "475714XXXXXX9603"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593376545
+ref_no: 18000462969
+crd_no: "417362XXXXXX3566"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593376553
+ref_no: 18000462971
+crd_no: "417362XXXXXX3566"
+txn: "CASH WITHDRAWAL"
+amount: 4500
+extra: "00 01 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593409587
+ref_no: 18100462972
+crd_no: "422540XXXXXX2098"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593409724
+ref_no: 18100462973
+crd_no: "464122XXXXXX3250"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593410993
+ref_no: 18100462975
+crd_no: "417362XXXXXX2912"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593410997
+ref_no: 18100462977
+crd_no: "417362XXXXXX2912"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593412592
+ref_no: 18100462978
+crd_no: "425199XXXXXX8771"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593416955
+ref_no: 18100462980
+crd_no: "417362XXXXXX0305"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593416968
+ref_no: 18100462982
+crd_no: "417362XXXXXX0305"
+txn: "CASH WITHDRAWAL"
+amount: 500
+extra: "00 01 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593418654
+ref_no: 18100462984
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593418660
+ref_no: 18100462985
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593418838
+ref_no: 18100462987
+crd_no: "417362XXXXXX9018"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593418851
+ref_no: 18100462989
+crd_no: "417362XXXXXX9018"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593420165
+ref_no: 18100462991
+crd_no: "417362XXXXXX7163"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593420180
+ref_no: 18100462993
+crd_no: "417362XXXXXX7163"
+txn: "CASH WITHDRAWAL"
+amount: 6400
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593422024
+ref_no: 18100462995
+crd_no: "417362XXXXXX0879"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593422029
+ref_no: 18100462997
+crd_no: "417362XXXXXX0879"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593422072
+ref_no: 18100462999
+crd_no: "417362XXXXXX0879"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593422087
+ref_no: 18100463001
+crd_no: "417362XXXXXX0879"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593423073
+ref_no: 18100463002
+crd_no: "410382XXXXXX3486"
+txn: "CASH WITHDRAWAL"
+amount: 3500
+extra: "00 01 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593423214
+ref_no: 18100463004
+crd_no: "417362XXXXXX7447"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593423225
+ref_no: 18100463006
+crd_no: "417362XXXXXX7447"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593424380
+ref_no: 18100463007
+crd_no: "446989XXXXXX8443"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593428072
+ref_no: 18100463009
+crd_no: "417362XXXXXX1944"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593428083
+ref_no: 18100463011
+crd_no: "417362XXXXXX1944"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593430255
+ref_no: 18100463013
+crd_no: "417362XXXXXX1700"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593430271
+ref_no: 18100463015
+crd_no: "417362XXXXXX1700"
+txn: "CASH WITHDRAWAL"
+amount: 37000
+extra: "00 00 37 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593431111
+ref_no: 18100463017
+crd_no: "417362XXXXXX0202"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593431122
+ref_no: 18100463019
+crd_no: "417362XXXXXX0202"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593431438
+ref_no: 18100463020
+crd_no: "447815XXXXXX3770"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593433164
+ref_no: 18100463021
+crd_no: "457279XXXXXX1084"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593433198
+ref_no: 18100463022
+crd_no: "457279XXXXXX1084"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593433505
+ref_no: 18100463023
+crd_no: "425199XXXXXX9542"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593433572
+ref_no: 18100463024
+crd_no: "425199XXXXXX9542"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593434373
+ref_no: 18100463026
+crd_no: "417362XXXXXX4351"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593434383
+ref_no: 18100463028
+crd_no: "417362XXXXXX4351"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593434753
+ref_no: 18100463030
+crd_no: "417362XXXXXX6345"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593434758
+ref_no: 18100463031
+crd_no: "417362XXXXXX6345"
+txn: "FAST CASH"
+amount: 500
+extra: "00 01 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593434846
+ref_no: 18100463033
+crd_no: "417362XXXXXX6345"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593434893
+ref_no: 18100463035
+crd_no: "417362XXXXXX6345"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593437352
+ref_no: 18100463037
+crd_no: "417362XXXXXX2144"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593437356
+ref_no: 18100463039
+crd_no: "417362XXXXXX2144"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593437389
+ref_no: 18100463041
+crd_no: "417362XXXXXX2144"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593437398
+ref_no: 18100463043
+crd_no: "417362XXXXXX2144"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593438189
+ref_no: 18100463045
+crd_no: "417362XXXXXX0298"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593438198
+ref_no: 18100463047
+crd_no: "417362XXXXXX0298"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593438515
+ref_no: 18100463049
+crd_no: "417362XXXXXX2557"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593438519
+ref_no: 18100463050
+crd_no: "417362XXXXXX2557"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593438775
+ref_no: 18100463052
+crd_no: "417362XXXXXX0018"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593438780
+ref_no: 18100463054
+crd_no: "417362XXXXXX0018"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593438805
+ref_no: 18100463056
+crd_no: "417362XXXXXX0018"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593438815
+ref_no: 18100463058
+crd_no: "417362XXXXXX0018"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593438855
+ref_no: 18100463060
+crd_no: "417362XXXXXX2717"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593438860
+ref_no: 18100463061
+crd_no: "417362XXXXXX2717"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593439994
+ref_no: 18100463063
+crd_no: "417362XXXXXX1721"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593440004
+ref_no: 18100463065
+crd_no: "417362XXXXXX1721"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593440556
+ref_no: 18100463066
+crd_no: "418087XXXXXX2016"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593443729
+ref_no: 18100463067
+crd_no: "425199XXXXXX9599"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593444652
+ref_no: 18100463069
+crd_no: "417362XXXXXX5140"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593444660
+ref_no: 18100463071
+crd_no: "417362XXXXXX5140"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593450429
+ref_no: 18100463073
+crd_no: "417362XXXXXX2183"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593450436
+ref_no: 18100463074
+crd_no: "417362XXXXXX2183"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593450477
+ref_no: 18100463076
+crd_no: "417362XXXXXX2183"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593450482
+ref_no: 18100463077
+crd_no: "417362XXXXXX2183"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593450526
+ref_no: 18100463079
+crd_no: "417362XXXXXX0957"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593450540
+ref_no: 18100463081
+crd_no: "417362XXXXXX0957"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593450584
+ref_no: 18100463083
+crd_no: "417362XXXXXX6908"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593450593
+ref_no: 18100463085
+crd_no: "417362XXXXXX6908"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593451226
+ref_no: 18100463086
+crd_no: "400955XXXXXX1821"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593451610
+ref_no: 18100463088
+crd_no: "417362XXXXXX2631"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593451622
+ref_no: 18100463090
+crd_no: "417362XXXXXX2631"
+txn: "CASH WITHDRAWAL"
+amount: 200
+extra: "01 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593451721
+ref_no: 18100463092
+crd_no: "417362XXXXXX1721"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593451729
+ref_no: 18100463094
+crd_no: "417362XXXXXX1721"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593453022
+ref_no: 18100463096
+crd_no: "417362XXXXXX5491"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593453031
+ref_no: 18100463098
+crd_no: "417362XXXXXX5491"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593453761
+ref_no: 18100463099
+crd_no: "639383XXXXXX0874"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593453865
+ref_no: 18100463101
+crd_no: "639383XXXXXX0874"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593454341
+ref_no: 18100463103
+crd_no: "417362XXXXXX2984"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593454353
+ref_no: 18100463105
+crd_no: "417362XXXXXX2984"
+txn: "CASH WITHDRAWAL"
+amount: 400
+extra: "02 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593454558
+ref_no: 18100463107
+crd_no: "417362XXXXXX4142"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593454612
+ref_no: 18100463109
+crd_no: "417362XXXXXX4142"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593454628
+ref_no: 18100463111
+crd_no: "417362XXXXXX4142"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593454819
+ref_no: 18100463113
+crd_no: "417362XXXXXX4279"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593454829
+ref_no: 18100463115
+crd_no: "417362XXXXXX4279"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593457954
+ref_no: 18100463117
+crd_no: "417362XXXXXX6706"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593457959
+ref_no: 18100463118
+crd_no: "417362XXXXXX6706"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593466288
+ref_no: 18100463119
+crd_no: "464160XXXXXX5310"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593499968
+ref_no: 18200463121
+crd_no: "417362XXXXXX7535"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593499979
+ref_no: 18200463123
+crd_no: "417362XXXXXX7535"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593500075
+ref_no: 18200463124
+crd_no: "464160XXXXXX8718"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593504228
+ref_no: 18200463126
+crd_no: "417362XXXXXX0298"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593504241
+ref_no: 18200463128
+crd_no: "417362XXXXXX0298"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593505288
+ref_no: 18200463130
+crd_no: "417362XXXXXX6710"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593505296
+ref_no: 18200463132
+crd_no: "417362XXXXXX6710"
+txn: "MINI STATEMENT"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593505322
+ref_no: 18200463134
+crd_no: "417362XXXXXX6710"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593505351
+ref_no: 18200463136
+crd_no: "417362XXXXXX6710"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593506103
+ref_no: 18200463138
+crd_no: "417362XXXXXX2928"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593506109
+ref_no: 18200463140
+crd_no: "417362XXXXXX2928"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593508084
+ref_no: 18200463142
+crd_no: "417362XXXXXX0879"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593508088
+ref_no: 18200463144
+crd_no: "417362XXXXXX0879"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593508614
+ref_no: 18200463146
+crd_no: "417362XXXXXX0957"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593508625
+ref_no: 18200463148
+crd_no: "417362XXXXXX0957"
+txn: "CASH WITHDRAWAL"
+amount: 16000
+extra: "00 00 16 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593511704
+ref_no: 18200463150
+crd_no: "417362XXXXXX3971"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593511791
+ref_no: 18200463152
+crd_no: "417362XXXXXX4279"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593511797
+ref_no: 18200463153
+crd_no: "417362XXXXXX4279"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593512613
+ref_no: 18200463154
+crd_no: "517500XXXXXX3359"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593512770
+ref_no: 18200463156
+crd_no: "417362XXXXXX7254"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593512780
+ref_no: 18200463158
+crd_no: "417362XXXXXX7254"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593514679
+ref_no: 18200463159
+crd_no: "414224XXXXXX0444"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593514737
+ref_no: 18200463160
+crd_no: "414224XXXXXX0444"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593515259
+ref_no: 18200463162
+crd_no: "417362XXXXXX8180"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593515268
+ref_no: 18200463164
+crd_no: "417362XXXXXX8180"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593518818
+ref_no: 18200463165
+crd_no: "418087XXXXXX9119"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593518886
+ref_no: 18200463166
+crd_no: "424314XXXXXX6743"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593520561
+ref_no: 18200463168
+crd_no: "417362XXXXXX7738"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593520568
+ref_no: 18200463169
+crd_no: "417362XXXXXX7738"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593520838
+ref_no: 18200463171
+crd_no: "417362XXXXXX9975"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593520851
+ref_no: 18200463173
+crd_no: "417362XXXXXX9975"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593522352
+ref_no: 18200463175
+crd_no: "417362XXXXXX8838"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593522360
+ref_no: 18200463177
+crd_no: "417362XXXXXX8838"
+txn: "MINI STATEMENT"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593522383
+ref_no: 18200463179
+crd_no: "417362XXXXXX8838"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593522387
+ref_no: 18200463181
+crd_no: "417362XXXXXX8838"
+txn: "BALANCE ENQUIRY"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593522409
+ref_no: 18200463183
+crd_no: "417362XXXXXX8838"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593522417
+ref_no: 18200463185
+crd_no: "417362XXXXXX8838"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593522637
+ref_no: 18200463187
+crd_no: "417362XXXXXX9922"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593522645
+ref_no: 18200463189
+crd_no: "417362XXXXXX9922"
+txn: "CASH WITHDRAWAL"
+amount: 12000
+extra: "00 00 12 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593522697
+ref_no: 18200463191
+crd_no: "417362XXXXXX2144"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593522706
+ref_no: 18200463193
+crd_no: "417362XXXXXX2144"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593524046
+ref_no: 18200463195
+crd_no: "417362XXXXXX1365"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593524061
+ref_no: 18200463197
+crd_no: "417362XXXXXX1365"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593525248
+ref_no: 18200463199
+crd_no: "417362XXXXXX6239"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593525255
+ref_no: 18200463200
+crd_no: "417362XXXXXX6239"
+txn: "FAST CASH"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593526447
+ref_no: 18200463202
+crd_no: "417362XXXXXX7157"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593526458
+ref_no: 18200463204
+crd_no: "417362XXXXXX7157"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593526510
+ref_no: 18200463206
+crd_no: "417362XXXXXX7157"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593526520
+ref_no: 18200463208
+crd_no: "417362XXXXXX7157"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593527371
+ref_no: 18200463209
+crd_no: "440783XXXXXX9717"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593527425
+ref_no: 18200463210
+crd_no: "478393XXXXXX0174"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593527538
+ref_no: 18200463211
+crd_no: "402944XXXXXX8117"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593527563
+ref_no: 18200463212
+crd_no: "402944XXXXXX8117"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593527593
+ref_no: 18200463213
+crd_no: "402944XXXXXX8117"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593527874
+ref_no: 18200463215
+crd_no: "417362XXXXXX2892"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593527878
+ref_no: 18200463216
+crd_no: "417362XXXXXX2892"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593528546
+ref_no: 18200463218
+crd_no: "417362XXXXXX1721"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593528564
+ref_no: 18200463220
+crd_no: "417362XXXXXX1721"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593529244
+ref_no: 18200463222
+crd_no: "417362XXXXXX1380"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593529249
+ref_no: 18200463224
+crd_no: "417362XXXXXX1380"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593529800
+ref_no: 18200463226
+crd_no: "417362XXXXXX6761"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593529813
+ref_no: 18200463228
+crd_no: "417362XXXXXX6761"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593530632
+ref_no: 18200463230
+crd_no: "417362XXXXXX6984"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593530649
+ref_no: 18200463232
+crd_no: "417362XXXXXX6984"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593530909
+ref_no: 18200463234
+crd_no: "417362XXXXXX9290"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593530922
+ref_no: 18200463236
+crd_no: "417362XXXXXX9290"
+txn: "CASH WITHDRAWAL"
+amount: 600
+extra: "03 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593532718
+ref_no: 18200463238
+crd_no: "417362XXXXXX9413"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593532729
+ref_no: 18200463240
+crd_no: "417362XXXXXX9413"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593532769
+ref_no: 18200463242
+crd_no: "417362XXXXXX9413"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593532779
+ref_no: 18200463244
+crd_no: "417362XXXXXX9413"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593533053
+ref_no: 18200463246
+crd_no: "417362XXXXXX3498"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593533057
+ref_no: 18200463248
+crd_no: "417362XXXXXX3498"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593533080
+ref_no: 18200463250
+crd_no: "417362XXXXXX3498"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593533090
+ref_no: 18200463252
+crd_no: "417362XXXXXX3498"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593533142
+ref_no: 18200463254
+crd_no: "417362XXXXXX3498"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593533146
+ref_no: 18200463255
+crd_no: "417362XXXXXX3498"
+txn: "FAST CASH"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593533198
+ref_no: 18200463257
+crd_no: "417362XXXXXX7224"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593533204
+ref_no: 18200463258
+crd_no: "417362XXXXXX7224"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593534523
+ref_no: 18200463260
+crd_no: "417362XXXXXX4580"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593534532
+ref_no: 18200463262
+crd_no: "417362XXXXXX4580"
+txn: "BALANCE ENQUIRY"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593534578
+ref_no: 18200463264
+crd_no: "417362XXXXXX4580"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593534583
+ref_no: 18200463266
+crd_no: "417362XXXXXX4580"
+txn: "BALANCE ENQUIRY"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593535509
+ref_no: 18200463268
+crd_no: "405457XXXXXX6033"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593535513
+ref_no: 18200463269
+crd_no: "405457XXXXXX6033"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593535539
+ref_no: 18200463271
+crd_no: "405457XXXXXX6033"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593535548
+ref_no: 18200463272
+crd_no: "405457XXXXXX6033"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593536611
+ref_no: 18200463273
+crd_no: "400955XXXXXX1821"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593536663
+ref_no: 18200463275
+crd_no: "417362XXXXXX6921"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593536668
+ref_no: 18200463277
+crd_no: "417362XXXXXX6921"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593536692
+ref_no: 18200463279
+crd_no: "417362XXXXXX6921"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593536703
+ref_no: 18200463281
+crd_no: "417362XXXXXX6921"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593537310
+ref_no: 18200463282
+crd_no: "529750XXXXXX3917"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593537815
+ref_no: 18200463287
+crd_no: "417362XXXXXX5175"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593537819
+ref_no: 18200463289
+crd_no: "417362XXXXXX5175"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593537857
+ref_no: 18200463291
+crd_no: "417362XXXXXX5175"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593537875
+ref_no: 18200463293
+crd_no: "417362XXXXXX5175"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593538179
+ref_no: 18200463295
+crd_no: "417362XXXXXX9450"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593538191
+ref_no: 18200463297
+crd_no: "417362XXXXXX9450"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593538235
+ref_no: 18200463299
+crd_no: "417362XXXXXX9450"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593538246
+ref_no: 18200463301
+crd_no: "417362XXXXXX9450"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593538291
+ref_no: 18200463303
+crd_no: "417362XXXXXX9450"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593538301
+ref_no: 18200463305
+crd_no: "417362XXXXXX9450"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593538504
+ref_no: 18200463307
+crd_no: "417362XXXXXX2509"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593538516
+ref_no: 18200463309
+crd_no: "417362XXXXXX2509"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593538567
+ref_no: 18200463311
+crd_no: "417362XXXXXX2509"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593538577
+ref_no: 18200463313
+crd_no: "417362XXXXXX2509"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593539122
+ref_no: 18200463314
+crd_no: "464160XXXXXX8127"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593539181
+ref_no: 18200463315
+crd_no: "464160XXXXXX8127"
+txn: "CASH WITHDRAWAL"
+amount: 14700
+extra: "01 01 14 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593539937
+ref_no: 18200463316
+crd_no: "527172XXXXXX1716"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593540472
+ref_no: 18200463318
+crd_no: "417362XXXXXX6861"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593540486
+ref_no: 18200463320
+crd_no: "417362XXXXXX6861"
+txn: "CASH WITHDRAWAL"
+amount: 33000
+extra: "00 00 33 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593542640
+ref_no: 18200463322
+crd_no: "417362XXXXXX9289"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593542645
+ref_no: 18200463324
+crd_no: "417362XXXXXX9289"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593542668
+ref_no: 18200463326
+crd_no: "417362XXXXXX9289"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593542678
+ref_no: 18200463328
+crd_no: "417362XXXXXX9289"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593542728
+ref_no: 18200463330
+crd_no: "417362XXXXXX7478"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593542738
+ref_no: 18200463331
+crd_no: "417362XXXXXX7478"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593543523
+ref_no: 18200463332
+crd_no: "460629XXXXXX8586"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593543942
+ref_no: 18200463334
+crd_no: "417362XXXXXX7064"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593543950
+ref_no: 18200463336
+crd_no: "417362XXXXXX7064"
+txn: "CASH WITHDRAWAL"
+amount: 2800
+extra: "04 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593544659
+ref_no: 18200463337
+crd_no: "416706XXXXXX5907"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593579314
+ref_no: 18300463338
+crd_no: "469510XXXXXX2879"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593580016
+ref_no: 18300463340
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593580020
+ref_no: 18300463341
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593580061
+ref_no: 18300463343
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593580066
+ref_no: 18300463344
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593580919
+ref_no: 18300463345
+crd_no: "464160XXXXXX8718"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593584680
+ref_no: 18300463347
+crd_no: "417362XXXXXX0019"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593584686
+ref_no: 18300463348
+crd_no: "417362XXXXXX0019"
+txn: "FAST CASH"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593588536
+ref_no: 18300463350
+crd_no: "417362XXXXXX9647"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593588551
+ref_no: 18300463352
+crd_no: "417362XXXXXX9647"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593589001
+ref_no: 18300463354
+crd_no: "417362XXXXXX9289"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593589014
+ref_no: 18300463356
+crd_no: "417362XXXXXX9289"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593589525
+ref_no: 18300463358
+crd_no: "417362XXXXXX7217"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593589529
+ref_no: 18300463360
+crd_no: "417362XXXXXX7217"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593589974
+ref_no: 18300463362
+crd_no: "417362XXXXXX8055"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593589984
+ref_no: 18300463364
+crd_no: "417362XXXXXX8055"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593590111
+ref_no: 18300463366
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593590116
+ref_no: 18300463367
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593590157
+ref_no: 18300463369
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593590160
+ref_no: 18300463370
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 20000
+extra: "EXCEEDS DAILY LIMIT"
+resp: 61
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593590184
+ref_no: 18300463372
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593590188
+ref_no: 18300463373
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593590276
+ref_no: 18300463374
+crd_no: "529750XXXXXX1381"
+txn: "CASH WITHDRAWAL"
+amount: 7000
+extra: "00 00 07 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593591112
+ref_no: 18300463376
+crd_no: "417362XXXXXX2928"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593591118
+ref_no: 18300463378
+crd_no: "417362XXXXXX2928"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593591144
+ref_no: 18300463380
+crd_no: "417362XXXXXX2928"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593591162
+ref_no: 18300463382
+crd_no: "417362XXXXXX2928"
+txn: "CASH WITHDRAWAL"
+amount: 28000
+extra: "00 00 28 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593591209
+ref_no: 18300463384
+crd_no: "417362XXXXXX3728"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593591219
+ref_no: 18300463386
+crd_no: "417362XXXXXX3728"
+txn: "CASH WITHDRAWAL"
+amount: 5800
+extra: "04 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593591261
+ref_no: 18300463388
+crd_no: "417362XXXXXX3728"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593591274
+ref_no: 18300463390
+crd_no: "417362XXXXXX3728"
+txn: "CASH WITHDRAWAL"
+amount: 400
+extra: "02 00 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593591768
+ref_no: 18300463392
+crd_no: "417362XXXXXX7891"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593591774
+ref_no: 18300463394
+crd_no: "417362XXXXXX7891"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593593732
+ref_no: 18300463396
+crd_no: "417362XXXXXX2687"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593593746
+ref_no: 18300463398
+crd_no: "417362XXXXXX2687"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593593800
+ref_no: 18300463400
+crd_no: "417362XXXXXX0879"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593593804
+ref_no: 18300463402
+crd_no: "417362XXXXXX0879"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593594064
+ref_no: 18300463403
+crd_no: "413271XXXXXX4203"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593601825
+ref_no: 18300463407
+crd_no: "417362XXXXXX9321"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593601838
+ref_no: 18300463409
+crd_no: "417362XXXXXX9321"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593603862
+ref_no: 18300463410
+crd_no: "462811XXXXXX5167"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593606956
+ref_no: 18300463412
+crd_no: "410488XXXXXX9285"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593606966
+ref_no: 18300463414
+crd_no: "410488XXXXXX9285"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607010
+ref_no: 18300463416
+crd_no: "410488XXXXXX9285"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593607019
+ref_no: 18300463418
+crd_no: "410488XXXXXX9285"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607195
+ref_no: 18300463419
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607253
+ref_no: 18300463420
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607311
+ref_no: 18300463421
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607370
+ref_no: 18300463422
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607429
+ref_no: 18300463423
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607504
+ref_no: 18300463424
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607561
+ref_no: 18300463425
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607621
+ref_no: 18300463426
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607679
+ref_no: 18300463427
+crd_no: "456809XXXXXX6884"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593607743
+ref_no: 18300463429
+crd_no: "410488XXXXXX7903"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593607752
+ref_no: 18300463431
+crd_no: "410488XXXXXX7903"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593608148
+ref_no: 18300463432
+crd_no: "418021XXXXXX6479"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593608220
+ref_no: 18300463434
+crd_no: "417362XXXXXX2144"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608225
+ref_no: 18300463436
+crd_no: "417362XXXXXX2144"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608248
+ref_no: 18300463438
+crd_no: "417362XXXXXX2144"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608257
+ref_no: 18300463440
+crd_no: "417362XXXXXX2144"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593608470
+ref_no: 18300463442
+crd_no: "417362XXXXXX2767"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608474
+ref_no: 18300463444
+crd_no: "417362XXXXXX2767"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608509
+ref_no: 18300463446
+crd_no: "417362XXXXXX2767"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608520
+ref_no: 18300463448
+crd_no: "417362XXXXXX2767"
+txn: "CASH WITHDRAWAL"
+amount: 35000
+extra: "00 00 35 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593608575
+ref_no: 18300463451
+crd_no: "417362XXXXXX2767"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608585
+ref_no: 18300463453
+crd_no: "417362XXXXXX2767"
+txn: "CASH WITHDRAWAL"
+amount: 35000
+extra: "00 00 35 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593608627
+ref_no: 18300463455
+crd_no: "417362XXXXXX2767"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593608636
+ref_no: 18300463457
+crd_no: "417362XXXXXX2767"
+txn: "CASH WITHDRAWAL"
+amount: 28000
+extra: "00 00 28 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593613393
+ref_no: 18300463459
+crd_no: "529076XXXXXX1570"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593613397
+ref_no: 18300463460
+crd_no: "529076XXXXXX1570"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593613428
+ref_no: 18300463462
+crd_no: "529076XXXXXX1570"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593613438
+ref_no: 18300463463
+crd_no: "529076XXXXXX1570"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593616783
+ref_no: 18300463465
+crd_no: "417362XXXXXX8758"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593616788
+ref_no: 18300463467
+crd_no: "417362XXXXXX8758"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593616813
+ref_no: 18300463469
+crd_no: "417362XXXXXX8758"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593616825
+ref_no: 18300463471
+crd_no: "417362XXXXXX8758"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593616890
+ref_no: 18300463473
+crd_no: "410488XXXXXX0541"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593616909
+ref_no: 18300463475
+crd_no: "410488XXXXXX0541"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593617580
+ref_no: 18300463477
+crd_no: "417362XXXXXX1760"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593617592
+ref_no: 18300463479
+crd_no: "417362XXXXXX1760"
+txn: "CASH WITHDRAWAL"
+amount: 6900
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593617624
+ref_no: 18300463481
+crd_no: "417362XXXXXX1760"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593617638
+ref_no: 18300463483
+crd_no: "417362XXXXXX1760"
+txn: "CASH WITHDRAWAL"
+amount: 6800
+extra: "04 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593617759
+ref_no: 18300463485
+crd_no: "417362XXXXXX0569"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593617764
+ref_no: 18300463487
+crd_no: "417362XXXXXX0569"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593617790
+ref_no: 18300463489
+crd_no: "417362XXXXXX0569"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593617800
+ref_no: 18300463490
+crd_no: "417362XXXXXX0569"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593619109
+ref_no: 18300463492
+crd_no: "417362XXXXXX3629"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593619115
+ref_no: 18300463494
+crd_no: "417362XXXXXX3629"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593620004
+ref_no: 18300463495
+crd_no: "517500XXXXXX7484"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593620081
+ref_no: 18300463496
+crd_no: "517500XXXXXX7484"
+txn: "CASH WITHDRAWAL"
+amount: 11400
+extra: "02 00 11 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593620160
+ref_no: 18300463497
+crd_no: "517500XXXXXX2647"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593620230
+ref_no: 18300463498
+crd_no: "517500XXXXXX2647"
+txn: "CASH WITHDRAWAL"
+amount: 13300
+extra: "04 01 12 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593620331
+ref_no: 18300463500
+crd_no: "417362XXXXXX1668"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593620337
+ref_no: 18300463502
+crd_no: "417362XXXXXX1668"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593620360
+ref_no: 18300463504
+crd_no: "417362XXXXXX1668"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593620376
+ref_no: 18300463506
+crd_no: "417362XXXXXX1668"
+txn: "CASH WITHDRAWAL"
+amount: 11500
+extra: "00 01 11 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593621369
+ref_no: 18300463508
+crd_no: "417362XXXXXX2337"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593621373
+ref_no: 18300463510
+crd_no: "417362XXXXXX2337"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593621394
+ref_no: 18300463511
+crd_no: "417362XXXXXX2337"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593621411
+ref_no: 18300463513
+crd_no: "417362XXXXXX2337"
+txn: "CASH WITHDRAWAL"
+amount: 9200
+extra: "01 00 09 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593621464
+ref_no: 18300463515
+crd_no: "417362XXXXXX7891"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593621473
+ref_no: 18300463517
+crd_no: "417362XXXXXX7891"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593621517
+ref_no: 18300463519
+crd_no: "417362XXXXXX7891"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593621535
+ref_no: 18300463521
+crd_no: "417362XXXXXX7891"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593621994
+ref_no: 18300463523
+crd_no: "417362XXXXXX3035"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593622004
+ref_no: 18300463525
+crd_no: "417362XXXXXX3035"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593622316
+ref_no: 18300463527
+crd_no: "417362XXXXXX0305"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593622326
+ref_no: 18300463529
+crd_no: "417362XXXXXX0305"
+txn: "CASH WITHDRAWAL"
+amount: 500
+extra: "00 01 00 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623057
+ref_no: 18300463531
+crd_no: "417362XXXXXX1686"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593623070
+ref_no: 18300463533
+crd_no: "417362XXXXXX1686"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623242
+ref_no: 18300463535
+crd_no: "417362XXXXXX0957"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593623252
+ref_no: 18300463536
+crd_no: "417362XXXXXX0957"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623384
+ref_no: 18300463538
+crd_no: "417362XXXXXX7628"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593623401
+ref_no: 18300463540
+crd_no: "417362XXXXXX7628"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623528
+ref_no: 18300463542
+crd_no: "417362XXXXXX5149"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623541
+ref_no: 18300463543
+crd_no: "417362XXXXXX5149"
+txn: "PIN VERIFICATION"
+extra: "CVV ERROR"
+resp: 82
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623583
+ref_no: 18300463545
+crd_no: "417362XXXXXX5149"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623600
+ref_no: 18300463546
+crd_no: "417362XXXXXX5149"
+txn: "PIN VERIFICATION"
+extra: "CVV ERROR"
+resp: 82
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593623960
+ref_no: 18300463548
+crd_no: "417362XXXXXX6392"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593623972
+ref_no: 18300463550
+crd_no: "417362XXXXXX6392"
+txn: "CASH WITHDRAWAL"
+amount: 3000
+extra: "00 00 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593624074
+ref_no: 18300463552
+crd_no: "417362XXXXXX5028"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593624079
+ref_no: 18300463553
+crd_no: "417362XXXXXX5028"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593624127
+ref_no: 18300463555
+crd_no: "529076XXXXXX8313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593624132
+ref_no: 18300463556
+crd_no: "529076XXXXXX8313"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593624178
+ref_no: 18300463558
+crd_no: "529076XXXXXX8313"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593624194
+ref_no: 18300463559
+crd_no: "529076XXXXXX8313"
+txn: "CASH WITHDRAWAL"
+amount: 15000
+extra: "00 00 15 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593624374
+ref_no: 18300463561
+crd_no: "417362XXXXXX5149"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593624389
+ref_no: 18300463563
+crd_no: "417362XXXXXX5149"
+txn: "CASH WITHDRAWAL"
+amount: 3500
+extra: "00 01 03 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593625138
+ref_no: 18300463564
+crd_no: "537434XXXXXX8173"
+txn: "CASH WITHDRAWAL"
+amount: 80000
+extra: "HIGH AMOUNT"
+resp: 975
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593625152
+ref_no: 18300463565
+crd_no: "537434XXXXXX8173"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "INVALID CARD"
+resp: 14
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593625556
+ref_no: 18300463566
+crd_no: "416706XXXXXX3336"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593625607
+ref_no: 18300463567
+crd_no: "416706XXXXXX3336"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593626055
+ref_no: 18300463569
+crd_no: "417362XXXXXX6710"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593626065
+ref_no: 18300463570
+crd_no: "417362XXXXXX6710"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593627668
+ref_no: 18300463572
+crd_no: "417362XXXXXX6981"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593627678
+ref_no: 18300463574
+crd_no: "417362XXXXXX6981"
+txn: "BALANCE ENQUIRY"
+extra: "CARD NOT ON RECORD"
+resp: 56
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593627704
+ref_no: 18300463576
+crd_no: "417362XXXXXX6981"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593627726
+ref_no: 18300463578
+crd_no: "417362XXXXXX6981"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593627764
+ref_no: 18300463580
+crd_no: "417362XXXXXX6981"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593627781
+ref_no: 18300463582
+crd_no: "417362XXXXXX6981"
+txn: "CASH WITHDRAWAL"
+amount: 14500
+extra: "00 01 14 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593629080
+ref_no: 18300463584
+crd_no: "484655XXXXXX7008"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593629087
+ref_no: 18300463585
+crd_no: "484655XXXXXX7008"
+txn: "FAST CASH"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593632453
+ref_no: 18300463587
+crd_no: "417362XXXXXX4714"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593632464
+ref_no: 18300463589
+crd_no: "417362XXXXXX4714"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593632502
+ref_no: 18300463591
+crd_no: "417362XXXXXX4714"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593632508
+ref_no: 18300463593
+crd_no: "417362XXXXXX4714"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593633317
+ref_no: 18300463594
+crd_no: "453177XXXXXX4533"
+txn: "CASH WITHDRAWAL"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593671825
+ref_no: 18400463596
+crd_no: "417362XXXXXX4057"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593671837
+ref_no: 18400463598
+crd_no: "417362XXXXXX4057"
+txn: "CASH WITHDRAWAL"
+amount: 15000
+extra: "00 00 15 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593673485
+ref_no: 18400463600
+crd_no: "417362XXXXXX4714"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593673495
+ref_no: 18400463602
+crd_no: "417362XXXXXX4714"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593674088
+ref_no: 18400463604
+crd_no: "417362XXXXXX0967"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593674110
+ref_no: 18400463606
+crd_no: "417362XXXXXX0967"
+txn: "CASH WITHDRAWAL"
+amount: 19500
+extra: "00 01 19 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593676670
+ref_no: 18400463607
+crd_no: "478683XXXXXX8361"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593676709
+ref_no: 18400463608
+crd_no: "488998XXXXXX9349"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593677252
+ref_no: 18400463610
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593677256
+ref_no: 18400463611
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593677299
+ref_no: 18400463613
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593677305
+ref_no: 18400463614
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593677344
+ref_no: 18400463616
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593677350
+ref_no: 18400463617
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593677390
+ref_no: 18400463619
+crd_no: "410488XXXXXX9876"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593677395
+ref_no: 18400463620
+crd_no: "410488XXXXXX9876"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593678988
+ref_no: 18400463622
+crd_no: "417362XXXXXX1919"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593679002
+ref_no: 18400463624
+crd_no: "417362XXXXXX1919"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593679042
+ref_no: 18400463626
+crd_no: "417362XXXXXX1919"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593679051
+ref_no: 18400463628
+crd_no: "417362XXXXXX1919"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593682947
+ref_no: 18400463629
+crd_no: "529750XXXXXX6066"
+txn: "CASH WITHDRAWAL"
+amount: 4000
+extra: "00 00 04 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593683199
+ref_no: 18400463631
+crd_no: "417362XXXXXX1857"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593683204
+ref_no: 18400463632
+crd_no: "417362XXXXXX1857"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593683257
+ref_no: 18400463634
+crd_no: "417362XXXXXX0879"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593683279
+ref_no: 18400463636
+crd_no: "417362XXXXXX0879"
+txn: "CASH WITHDRAWAL"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593684529
+ref_no: 18400463638
+crd_no: "417362XXXXXX7447"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593684551
+ref_no: 18400463640
+crd_no: "417362XXXXXX7447"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593684596
+ref_no: 18400463642
+crd_no: "417362XXXXXX5223"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593684611
+ref_no: 18400463644
+crd_no: "417362XXXXXX5223"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593686343
+ref_no: 18400463646
+crd_no: "417362XXXXXX5215"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593686348
+ref_no: 18400463647
+crd_no: "417362XXXXXX5215"
+txn: "FAST CASH"
+amount: 20000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593686382
+ref_no: 18400463649
+crd_no: "417362XXXXXX5215"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593686389
+ref_no: 18400463651
+crd_no: "417362XXXXXX5215"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593686446
+ref_no: 18400463653
+crd_no: "417362XXXXXX5215"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593686458
+ref_no: 18400463654
+crd_no: "417362XXXXXX5215"
+txn: "FAST CASH"
+amount: 2000
+extra: "00 00 02 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593686822
+ref_no: 18400463656
+crd_no: "410488XXXXXX4293"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593686856
+ref_no: 18400463658
+crd_no: "410488XXXXXX4293"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593687158
+ref_no: 18400463659
+crd_no: "446989XXXXXX4554"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593687686
+ref_no: 18400463661
+crd_no: "417362XXXXXX7093"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593687691
+ref_no: 18400463662
+crd_no: "417362XXXXXX7093"
+txn: "FAST CASH"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593688429
+ref_no: 18400463664
+crd_no: "417362XXXXXX1384"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593688511
+ref_no: 18400463665
+crd_no: "417362XXXXXX1384"
+txn: "PIN VERIFICATION"
+extra: "CVV ERROR"
+resp: 82
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593688538
+ref_no: 18400463667
+crd_no: "417362XXXXXX1384"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593688555
+ref_no: 18400463669
+crd_no: "417362XXXXXX1384"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593689973
+ref_no: 18400463671
+crd_no: "417362XXXXXX1700"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593689979
+ref_no: 18400463673
+crd_no: "417362XXXXXX1700"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593690007
+ref_no: 18400463675
+crd_no: "417362XXXXXX1700"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593690013
+ref_no: 18400463676
+crd_no: "417362XXXXXX1700"
+txn: "FAST CASH"
+amount: 1000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593692085
+ref_no: 18400463677
+crd_no: "999999XXXXXX0775"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593692089
+ref_no: 18400463678
+crd_no: "999999XXXXXX0775"
+txn: "START CASH REPLENISH"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593693229
+ref_no: 18400463680
+crd_no: "999999XXXXXX0766"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593693326
+ref_no: 18400463682
+crd_no: "418087XXXXXX3654"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593693383
+ref_no: 18400463684
+crd_no: "417362XXXXXX5530"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593693397
+ref_no: 18400463686
+crd_no: "417362XXXXXX5530"
+txn: "CASH WITHDRAWAL"
+amount: 10800
+extra: "04 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593695498
+ref_no: 18400463688
+crd_no: "417362XXXXXX2550"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593695524
+ref_no: 18400463690
+crd_no: "417362XXXXXX2550"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593695586
+ref_no: 18400463692
+crd_no: "417362XXXXXX2550"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593695601
+ref_no: 18400463694
+crd_no: "417362XXXXXX2550"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593695651
+ref_no: 18400463696
+crd_no: "417362XXXXXX2550"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593695673
+ref_no: 18400463698
+crd_no: "417362XXXXXX2550"
+txn: "CASH WITHDRAWAL"
+amount: 18000
+extra: "00 00 18 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593695730
+ref_no: 18400463699
+crd_no: "442461XXXXXX0356"
+txn: "CASH WITHDRAWAL"
+amount: 8000
+extra: "00 00 08 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593695773
+ref_no: 18400463701
+crd_no: "417362XXXXXX3411"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593695784
+ref_no: 18400463703
+crd_no: "417362XXXXXX3411"
+txn: "CASH WITHDRAWAL"
+amount: 15000
+extra: "00 00 15 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593697135
+ref_no: 18400463704
+crd_no: "425199XXXXXX8123"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593697203
+ref_no: 18400463705
+crd_no: "464160XXXXXX5781"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593697322
+ref_no: 18400463706
+crd_no: "529750XXXXXX8574"
+txn: "CASH WITHDRAWAL"
+amount: 30000
+extra: "HOT CARD"
+resp: 5
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593699727
+ref_no: 18400463708
+crd_no: "417362XXXXXX1948"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593699733
+ref_no: 18400463709
+crd_no: "417362XXXXXX1948"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593700467
+ref_no: 18400463711
+crd_no: "417362XXXXXX6564"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593700475
+ref_no: 18400463713
+crd_no: "417362XXXXXX6564"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593700505
+ref_no: 18400463715
+crd_no: "417362XXXXXX6564"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593700546
+ref_no: 18400463717
+crd_no: "417362XXXXXX6564"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593700560
+ref_no: 18400463719
+crd_no: "417362XXXXXX6564"
+txn: "CASH WITHDRAWAL"
+amount: 5500
+extra: "00 01 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593702626
+ref_no: 18400463721
+crd_no: "417362XXXXXX9961"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593702631
+ref_no: 18400463722
+crd_no: "417362XXXXXX9961"
+txn: "FAST CASH"
+amount: 10000
+extra: "00 00 10 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593703724
+ref_no: 18400463724
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593703753
+ref_no: 18400463726
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593703766
+ref_no: 18400463728
+crd_no: "417362XXXXXX2459"
+txn: "CASH WITHDRAWAL"
+amount: 12000
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593703794
+ref_no: 18400463730
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593703810
+ref_no: 18400463732
+crd_no: "417362XXXXXX2459"
+txn: "CASH WITHDRAWAL"
+amount: 11800
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593703884
+ref_no: 18400463734
+crd_no: "417362XXXXXX2442"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593703970
+ref_no: 18400463736
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593703989
+ref_no: 18400463738
+crd_no: "417362XXXXXX2459"
+txn: "CASH WITHDRAWAL"
+amount: 11800
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593705457
+ref_no: 18400463740
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593705470
+ref_no: 18400463742
+crd_no: "417362XXXXXX2459"
+txn: "CASH WITHDRAWAL"
+amount: 11800
+extra: "INSUFFICIENT FUNDS"
+resp: 51
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593705514
+ref_no: 18400463744
+crd_no: "417362XXXXXX2442"
+txn: "PIN VERIFICATION"
+extra: "INVALID PIN"
+resp: 55
+status: "REQ NOT SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593705582
+ref_no: 18400463746
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593705593
+ref_no: 18400463748
+crd_no: "417362XXXXXX2459"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593705648
+ref_no: 18400463750
+crd_no: "417362XXXXXX2459"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593705664
+ref_no: 18400463752
+crd_no: "417362XXXXXX2459"
+txn: "CASH WITHDRAWAL"
+amount: 11500
+extra: "00 01 11 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593706486
+ref_no: 18400463754
+crd_no: "417362XXXXXX4826"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593706495
+ref_no: 18400463756
+crd_no: "417362XXXXXX4826"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593706536
+ref_no: 18400463758
+crd_no: "417362XXXXXX4826"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593706547
+ref_no: 18400463760
+crd_no: "417362XXXXXX4826"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593706593
+ref_no: 18400463762
+crd_no: "417362XXXXXX4826"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593706602
+ref_no: 18400463764
+crd_no: "417362XXXXXX4826"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593707117
+ref_no: 18400463766
+crd_no: "417362XXXXXX2442"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593707138
+ref_no: 18400463768
+crd_no: "417362XXXXXX2442"
+txn: "CASH WITHDRAWAL"
+amount: 11600
+extra: "03 00 11 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593707235
+ref_no: 18400463770
+crd_no: "417362XXXXXX6772"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593707250
+ref_no: 18400463772
+crd_no: "417362XXXXXX6772"
+txn: "CASH WITHDRAWAL"
+amount: 13000
+extra: "00 00 13 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593707493
+ref_no: 18400463773
+crd_no: "447815XXXXXX0760"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593707802
+ref_no: 18400463775
+crd_no: "417362XXXXXX2165"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593707812
+ref_no: 18400463777
+crd_no: "417362XXXXXX2165"
+txn: "CASH WITHDRAWAL"
+amount: 5000
+extra: "00 00 05 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593707982
+ref_no: 18400463779
+crd_no: "417362XXXXXX0059"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593707995
+ref_no: 18400463781
+crd_no: "417362XXXXXX0059"
+txn: "CASH WITHDRAWAL"
+amount: 16000
+extra: "00 00 16 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593710929
+ref_no: 18400463783
+crd_no: "417362XXXXXX6599"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593710945
+ref_no: 18400463785
+crd_no: "417362XXXXXX6599"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593711107
+ref_no: 18400463787
+crd_no: "417362XXXXXX4142"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593711128
+ref_no: 18400463789
+crd_no: "417362XXXXXX4142"
+txn: "CASH WITHDRAWAL"
+amount: 1700
+extra: "01 01 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593711866
+ref_no: 18400463791
+crd_no: "417362XXXXXX8105"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593711871
+ref_no: 18400463793
+crd_no: "417362XXXXXX8105"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593711896
+ref_no: 18400463795
+crd_no: "417362XXXXXX8105"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593711909
+ref_no: 18400463797
+crd_no: "417362XXXXXX8105"
+txn: "CASH WITHDRAWAL"
+amount: 6500
+extra: "00 01 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593711956
+ref_no: 18400463799
+crd_no: "417362XXXXXX2928"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593711969
+ref_no: 18400463801
+crd_no: "417362XXXXXX2928"
+txn: "CASH WITHDRAWAL"
+amount: 11000
+extra: "00 00 11 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593712024
+ref_no: 18400463803
+crd_no: "417362XXXXXX8157"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593712044
+ref_no: 18400463805
+crd_no: "417362XXXXXX8157"
+txn: "CASH WITHDRAWAL"
+amount: 21000
+extra: "00 00 21 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593712812
+ref_no: 18400463807
+crd_no: "417362XXXXXX4196"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593712826
+ref_no: 18400463809
+crd_no: "417362XXXXXX4196"
+txn: "CASH WITHDRAWAL"
+amount: 1000
+extra: "00 00 01 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593712890
+ref_no: 18400463811
+crd_no: "417362XXXXXX1060"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593712900
+ref_no: 18400463813
+crd_no: "417362XXXXXX1060"
+txn: "CASH WITHDRAWAL"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593714010
+ref_no: 18400463815
+crd_no: "417362XXXXXX7917"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593714024
+ref_no: 18400463817
+crd_no: "417362XXXXXX7917"
+txn: "CASH WITHDRAWAL"
+amount: 21000
+extra: "00 00 21 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593714609
+ref_no: 18400463819
+crd_no: "484655XXXXXX3832"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593714614
+ref_no: 18400463820
+crd_no: "484655XXXXXX3832"
+txn: "FAST CASH"
+amount: 20000
+extra: "00 00 20 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593714932
+ref_no: 18400463822
+crd_no: "417362XXXXXX1050"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593714936
+ref_no: 18400463824
+crd_no: "417362XXXXXX1050"
+txn: "BALANCE ENQUIRY"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593714961
+ref_no: 18400463826
+crd_no: "417362XXXXXX1050"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593714980
+ref_no: 18400463828
+crd_no: "417362XXXXXX1050"
+txn: "CASH WITHDRAWAL"
+amount: 6000
+extra: "00 00 06 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593715152
+ref_no: 18400463830
+crd_no: "417362XXXXXX4549"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593715163
+ref_no: 18400463832
+crd_no: "417362XXXXXX4549"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593715787
+ref_no: 18400463834
+crd_no: "417362XXXXXX4714"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593715796
+ref_no: 18400463836
+crd_no: "417362XXXXXX4714"
+txn: "CASH WITHDRAWAL"
+amount: 40000
+extra: "00 00 40 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593716995
+ref_no: 18400463838
+crd_no: "417362XXXXXX9116"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593717002
+ref_no: 18400463840
+crd_no: "417362XXXXXX9116"
+txn: "CASH WITHDRAWAL"
+amount: 12000
+extra: "00 00 12 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593717186
+ref_no: 18400463841
+crd_no: "416706XXXXXX5907"
+txn: "CASH WITHDRAWAL"
+amount: 15000
+extra: "00 00 15 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593720682
+ref_no: 18400463843
+crd_no: "417362XXXXXX5811"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593720693
+ref_no: 18400463845
+crd_no: "417362XXXXXX5811"
+txn: "CASH WITHDRAWAL"
+amount: 25000
+extra: "00 00 25 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593721559
+ref_no: 18400463847
+crd_no: "417362XXXXXX0467"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593721564
+ref_no: 18400463848
+crd_no: "417362XXXXXX0467"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+datetime: 1593721614
+ref_no: 18400463850
+crd_no: "417362XXXXXX0467"
+txn: "PIN VERIFICATION"
+status: "REQ SERVICED"
+term_id: 460001
+
+datetime: 1593721620
+ref_no: 18400463851
+crd_no: "417362XXXXXX0467"
+txn: "FAST CASH"
+amount: 30000
+extra: "00 00 30 00"
+status: "REQ SERVICED"
+term_id: 460001
+ccy: "KES"
+
+Successfully written data on `test-bed/CFOutput-unprocessed.txt`.
+Accounts encountered: 830
+Accounts proccessed suceessfully: 367
+Accounts failed to process: 463
+Total amount in input: 30000
+Total amount in output: 30000
+Total no. of cashflows: 0
+Total Duration for ATM A2 .cf file generator: 64.672925ms

@@ -1,0 +1,15 @@
+Aug 19 10:33:54.861 INFO log_file: test-bed/log.txt
+Aug 19 10:33:54.861 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 19 10:33:54.861 INFO input_file: test-bed/A2.CDW E-Journal.xlsx
+Aug 19 10:33:54.861 INFO input_sheet_name: Sheet1
+Aug 19 10:33:54.861 INFO as_on_date: 2018-02-28
+Aug 19 10:33:54.861 INFO output_file: test-bed/CFOutput
+Aug 19 10:33:54.861 INFO log_level: trace
+Aug 19 10:33:54.976 DEBG Total Duration: 115.08344ms
+Aug 19 10:33:54.983 INFO Accounts encountered: 830
+Accounts proccessed suceessfully: 367
+Accounts failed to process: 463
+Total amount in input: 30000
+Total amount in output: 30000
+Total no. of cashflows: 0
+Aug 19 10:33:54.984 INFO Total Duration for ATM A2: 125.267006ms

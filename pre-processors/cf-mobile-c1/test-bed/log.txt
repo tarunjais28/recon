@@ -1,0 +1,14 @@
+Aug 18 10:36:08.037 INFO log_file: test-bed/log.txt
+Aug 18 10:36:08.037 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 18 10:36:08.037 INFO input_file: test-bed/C1. B2C_CBS.xlsx
+Aug 18 10:36:08.037 INFO input_sheet_name: CBS
+Aug 18 10:36:08.037 INFO as_on_date: 2018-02-28
+Aug 18 10:36:08.037 INFO output_file: test-bed/CFOutput
+Aug 18 10:36:08.037 INFO log_level: info
+Aug 18 10:36:08.148 INFO Accounts encountered: 3384
+Accounts proccessed suceessfully: 3384
+Accounts failed to process: 0
+Total amount in input: -8846679374.98023
+Total amount in output: 90603684.25
+Total no. of cashflows: 0
+Aug 18 10:36:08.150 INFO Total Duration for Mobile C1: 113.443463ms

@@ -1,0 +1,14 @@
+Aug 19 11:52:11.785 INFO log_file: test-bed/log.txt
+Aug 19 11:52:11.786 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 19 11:52:11.786 INFO input_file: test-bed/B1. CDM E-Journal.xlsx
+Aug 19 11:52:11.786 INFO input_sheet_name: cdm
+Aug 19 11:52:11.786 INFO as_on_date: 2018-02-28
+Aug 19 11:52:11.786 INFO output_file: test-bed/CFOutput
+Aug 19 11:52:11.786 INFO log_level: info
+Aug 19 11:52:11.805 INFO Accounts encountered: 288
+Accounts proccessed suceessfully: 99
+Accounts failed to process: 189
+Total amount in input: 15049700
+Total amount in output: 15049700
+Total no. of cashflows: 0
+Aug 19 11:52:11.806 INFO Total Duration for ATM B1: 24.251699ms

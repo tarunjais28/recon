@@ -1,0 +1,14 @@
+Aug 19 13:27:07.291 INFO log_file: test-bed/log.txt
+Aug 19 13:27:07.291 INFO diagnostics_file: test-bed/diag-log.txt
+Aug 19 13:27:07.292 INFO input_file: test-bed/C2. B2C_Web.xlsx
+Aug 19 13:27:07.292 INFO input_sheet_name: Web
+Aug 19 13:27:07.292 INFO as_on_date: 2018-02-28
+Aug 19 13:27:07.292 INFO output_file: test-bed/CFOutput
+Aug 19 13:27:07.292 INFO log_level: info
+Aug 19 13:27:07.443 INFO Accounts encountered: 3309
+Accounts proccessed suceessfully: 3309
+Accounts failed to process: 0
+Total amount in input: 21504806072.74118
+Total amount in output: 21504806072.74118
+Total no. of cashflows: 0
+Aug 19 13:27:07.446 INFO Total Duration for Mobile C2: 155.319271ms
